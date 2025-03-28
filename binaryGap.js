@@ -1,5 +1,9 @@
 function solution(N) {
-
+    
+    if (!/^[0123456789]+$/.test(N)) {//verifica se o valor digitado é um valor válido
+        console.log("Erro: Digite um valor válido.");
+        return;
+    }
     //declaração de variaveis 
     var quantZero = 0, maiorGap = 0;
     //transformando valor digitado em binario e separando os caracteres em um array
