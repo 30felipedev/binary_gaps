@@ -45,7 +45,7 @@ const rl = readline.createInterface({
     output: process.stdout,
 }); //adicionando interação via terminal
 
-rl.question("Digite algo: ", (N) => {
+rl.question("Digite um valor: ", (N) => {
 
     solution(N);
     rl.close();
