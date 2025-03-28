@@ -17,7 +17,7 @@ This repository contains an implementation of a **Binary Gap Calculator** in **N
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/binary-gap.git
+   git clone https://github.com/30felipedev/binary_gaps.git
    ```
 
 2. Navigate to the project directory:
@@ -27,7 +27,7 @@ This repository contains an implementation of a **Binary Gap Calculator** in **N
 
 3. Run the script:
    ```bash
-   node gapCalculator.js
+   node binaryGap.js
    ```
 
 ## 📬 Contact
@@ -56,7 +56,7 @@ Este repositório contém uma implementação da **Calculadora de Gap Binário**
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/gap-binario.git
+   git clone https://github.com/30felipedev/binary_gaps.git
    ```
 
 2. Navegue até o diretório do projeto:
@@ -66,7 +66,7 @@ Este repositório contém uma implementação da **Calculadora de Gap Binário**
 
 3. Execute o script:
    ```bash
-   node gapCalculator.js <numeroBinario>
+   node binaryGap.js
    ```
 
 ## 📬 Contato
